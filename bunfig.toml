@@ -1,0 +1,8 @@
+name = "my-discord-bot"
+type = "module"
+target = "bun"
+
+[dependencies]
+"discord.js" = "^14.0.0"
+"@types/node" = "^16.0.0"
+"typescript" = "^4.5.0"
